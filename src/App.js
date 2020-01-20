@@ -9,7 +9,7 @@ function App() {
           WORK IN PROGRESS
         </p>
         <p className="App-header--text">
-          Updated Portfolio Coming Soon...
+          Updated Portfolio Coming Soon
         </p>
 
       </header>
