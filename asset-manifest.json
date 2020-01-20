@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portfolio-site/static/css/main.a1308bd0.chunk.css",
+    "main.js": "/portfolio-site/static/js/main.0888232c.chunk.js",
+    "main.js.map": "/portfolio-site/static/js/main.0888232c.chunk.js.map",
+    "runtime-main.js": "/portfolio-site/static/js/runtime-main.9b26440e.js",
+    "runtime-main.js.map": "/portfolio-site/static/js/runtime-main.9b26440e.js.map",
+    "static/js/2.6e5b4a45.chunk.js": "/portfolio-site/static/js/2.6e5b4a45.chunk.js",
+    "static/js/2.6e5b4a45.chunk.js.map": "/portfolio-site/static/js/2.6e5b4a45.chunk.js.map",
+    "index.html": "/portfolio-site/index.html",
+    "precache-manifest.b34f15c6ab29967abd0a66006134a607.js": "/portfolio-site/precache-manifest.b34f15c6ab29967abd0a66006134a607.js",
+    "service-worker.js": "/portfolio-site/service-worker.js",
+    "static/css/main.a1308bd0.chunk.css.map": "/portfolio-site/static/css/main.a1308bd0.chunk.css.map",
+    "static/js/2.6e5b4a45.chunk.js.LICENSE": "/portfolio-site/static/js/2.6e5b4a45.chunk.js.LICENSE",
+    "static/media/App.css": "/portfolio-site/static/media/tube_wallpaper.26882d48.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b26440e.js",
+    "static/js/2.6e5b4a45.chunk.js",
+    "static/css/main.a1308bd0.chunk.css",
+    "static/js/main.0888232c.chunk.js"
+  ]
+}
