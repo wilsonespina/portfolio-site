@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  background-image: url("./assets/tube_wallpaper.jpg");
 }
 
 .App-logo {
@@ -14,7 +15,6 @@
 }
 
 .App-header {
-  background-color: #282c34;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -22,6 +22,12 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+}
+
+.App-header--text {
+  font-size: 50px;
+  font-weight: bold;
+  -webkit-text-stroke: 0.5px blue;
 }
 
 .App-link {

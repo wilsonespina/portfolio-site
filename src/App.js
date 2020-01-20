@@ -1,16 +1,14 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
+        <p className="App-header--text">
           WORK IN PROGRESS
         </p>
-        <p>
+        <p className="App-header--text">
           Updated Portfolio Coming Soon...
         </p>
 
